@@ -29,7 +29,7 @@ Windows screenFetch is available and managed through <a href="https://www.powers
 
 Simply run the <code>Screenfetch</code> command after installing the module and you should be good to go.
 
-
+You can also just download the `screenfetch.ps1` and run it from a Powershell prompt.
 
 
 <b>~~Command Prompt~~</b>
